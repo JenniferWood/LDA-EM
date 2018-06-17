@@ -1,0 +1,541 @@
+味道/n  不错/a
+干贝/nf  鲜虾/nf  粥/nf
+秘/b  制/v  琵琶/n  鸭野/nr  不错/a
+服务/vn  非常/d  周到/a  ~/nx  菜品/n  也/d  跟/p  可口/a  ~/nx  工作餐/n  很/d  适合/v  在/p  北京/ns  经常/d  去/vf  的/ude1  一家/n  砂锅/n  粥/nf
+公司/nis  边上/f  开/v  了分店/nt
+味道/n  一如既往/vl  的/ude1  好/a  味道/n  真/a  挺不错/i  的/ude1
+服务/vn  也/d  好/a
+打包/vi  盒/ng  要/v  换/v  家/q  附近/f  新开/ns  的/ude1  潮汕/ns  粥/nf
+带着/vn  小朋友/n  一起/s  去/vf  吃/v
+点/qt  了/ule  招牌/n  的/ude1  虾蟹/nz  粥/nf
+味道/n  很/d  不错/a
+小朋友/n  第一/m  次/qv  吃/v  各种/rz  粥/nf
+喝/vg  了/ule  一大/n  碗/n
+直说/vi  好吃/a
+琵琶/n  鸭/ng  也/d  强烈推荐/i
+外焦里嫩/nz
+口味/n  也/d  是/vshi  棒棒/nz  哒/o
+还/d  点/qt  了/ule  章鱼/nf  豆腐/nf
+还/d  不错/a
+总之/c  环境/n  很好/ad
+味道/n  也/d  不错/a
+还/d  会/v  再/d  去/vf
+就是/v  空调/n  有点/d  太冷/nz  了/ule
+吹/v  的/ude1  腿/n  都/d  是/vshi  冰/n  的/ude1
+建议/n  冷气/n  开小/v  点/qt
+还/d  不错/a   /w  土鸡/n  鸽子/n   /w  还有/v  鸡鸭/n  拼盘/n  都/d  不错/a  服务/vn  很/d  到位/vi
+餐前/nz  认真/ad  介绍/v
+餐/qv  后/f  询问/v  菜品/n  满意度/n
+上水/v  及时/ad
+只是/d  因为/c  我俩/r  口味/n  偏/d  淡/a
+会/v  觉得/v  虾蟹/nz  粥/nf  咸/a  了/ule  一/m  丢/v
+整体/n  味道/n  不错/a
+会/v  再来/d  无论是/c  菜品/n  、/w  味道/n  、/w  地理位置/gg  、/w  餐厅/nis  环境/n  、/w  服务/vn  都/d  要/v  大赞/nrf
+不是/c  第一/m  次/qv  来到/v  火/n  奇潮汕/ns  砂锅/n  粥店/ns  、/w  在/p  北京/ns  几/d  个/q  分店/nis  也/d  都/d  去/vf  过/uguo
+但是/c  慈云寺店/nt  是/vshi  新开的店/nt  、/w  也/d  是/vshi  朋友/n  开/v  的店/ns
+我/rr  必须/d  要/v  带/v  身边/s  的/ude1  亲人/n  来/vf  尝尝/v
+以后/f  就/d  来/vf  这/rzv  家/q  了/ule
+特别/d  推荐/v  吊/v  烧鸡/n  、/w  配/v  个/q  清炒/nz  菜心/n  、/w  再/d  必/d  点/qt  一个/mq  干贝/nf  虾蟹/nz  粥/nf
+再一/d  饱/a  口福/n  点/qt  3/m  -/nx  5/m  样/ng  广/a  式/k  小点心/nz  、/w  叉烧包/nf  、/w  虾饺/nf  、/w  春卷/nf  等等/udeng
+朋友们/nz  快来/d  尝尝/v  吧/y
+力挺/nz  火/n  奇潮汕/ns  砂锅/n  粥/nf  北京/ns  慈云寺店/nt
+一如既往/vl  的/ude1  好/a
+火/n  齐/a  终于/d  有/vyou  一家/n  开在/v  了/ule  朝阳路/ns  ～/w  地点/n  在/p  慈云寺/nz  桥东/nz  边/k  过/uguo  第/mq  一个/mq  红绿灯/n  马路南/ns  边/k  ～/w  是/vshi  在/p  二楼/ns
+不算/v  难找/a  ～/w  门前/s  还有/v  停车位/n  ～/w  需要/v  从/p  东边/f  进入/v  西边/f  出来/vf
+非常/d  方便/a
+因为/c  以前/f  总是/d  在/p  国展/vn  店/n  吃/v
+一/m  开始/v  朋友/n  介绍/v
+吃/v  过/uguo  一/m  次/qv  觉得/v  特别/d  好/a  就/d  经常/d  去/vf  了/ule
+这次/r  开在/v  东边/f  朝阳路/ns  就/d  不用/d  每次/r  都/d  跑到/v  国展/vn  了/ule  ～/w  店里/n  布置/vn  仅仅/d  有/vyou  条/q
+干净/a  整洁/a
+跟/p  其他/rzv  店/n  风格/n  也/d  一模一样/al
+我/rr  和/cc  老公/n  两/m  个人/n  点/qt  了/ule  一/m  锅/n  鲍鱼/n  干贝/nf  虾/n  粥/nf
+一/m  份/q  椒盐/n  金针菇/nf
+一个小份/ns  的/ude1  琵琶/n  鸭/ng
+一个/mq  蒜蓉/nz  空心菜/n
+还有/v  木耳/nf  刺身/nf  和/cc  笋丝/n  小黄瓜/nz  两/m  个/q  凉菜/nf  ～/w  （/w  着实/d  点/qt  多/a  了/ule  哈哈/o  ）/w  赶上/v  大众/nt  点评/v  的/ude1  优惠活动/nz  ～/w  花/n  了/ule  200/m  ～/w  最后/f  还/d  浪费/v  了/ule  不少/mq  ～/w  点评/v  下/f  招牌/n  粥/nf  ～/w  以往/p  都会/n  点/qt  带/v  蟹/ng  的/ude1  粥/nf
+这次/r  点/qt  了/ule  没有/v  蟹/ng  的/ude1  粥/nf
+第一/m  感觉/n  就是/v  货/n  真多/d  啊/y
+基本/a  每/rz  勺/ng  都/d  能/v  盛到/v  虾/n  和/cc  干贝/nf
+不过/c  味道/n  比/p  不/d  上/f  带/v  螃蟹/n  的/ude1  鲜/a
+不/d  知道/v  是因为/c  蟹/ng  的/ude1  关系/n  还是/c  季节/n  的/ude1  关系/n
+毕竟/d  不是/c  繁殖/vn  的/ude1  季节/n
+鸭子/n  特别/d  好吃/a
+和/cc  梅子/n  酱/n  绝配/nz  啊/y
+非常/d  正宗/b  的/ude1  广式/nr  味道/n  ～/w  肉/n  虽然/c  算不上/l  多/a
+但是/c  味道/n  极/d  好/a
+脆皮/nz  鲜肉/n  ～/w  笋丝/n  小黄瓜/nz  也/d  是/vshi  很/d  精致/a  的/ude1  一道菜/nz
+笋丝/n  打底/nz
+上面/f  满满的/z  小黄瓜/nz  ～/w  凉菜/nf  师傅/nnt  调味/vi  手艺/n  赞/vg  一个/m
+咸鲜得/nr  当/p
+还/d  充分/ad  呼应/vi  了/ule  小黄瓜/nz  和/cc  笋丝/n  入口/n  的/ude1  清爽/a  甘脆/nz
+总体/n  来说/uls  菜/n  量/n  很大/d
+两/m  个人/n  吃/v  了/ule  个/q  肚/ng  歪/a  ～/w  上菜/n  速度/n  非常/d  快/a
+凉菜/nf  吃/v  的/ude1  差不多/al  正好/z  上来/vf  了/ule  粥/nf
+据说/v  火/n  齐/a  的/ude1  粥/nf  每/rz  一/m  锅/n  都/d  是/vshi  单独/d  熬/v  制/v
+所以/c  才能/n  这么/rz  腻/v  活儿/n  这么/rz  香/a  吧/y
+最后/f  点评/v  下/f  服务/vn
+年轻/a  的/ude1  小伙子/n  每/rz  一个/mq  都帅帅/nr  的/ude1
+特别/d  有眼力/nz  见/v  儿/ng  ～/w  从/p  楼下/s  就/d  有人/r  开门/vi
+上楼/vi  还/d  会/v  温馨/a  的/ude1  提示/vn  小心/a  楼梯/n  陡/a
+拿/v  菜单/n  和/cc  点菜/vi  的/ude1  时候/n  都/d  面带微笑/vl
+特别/d  喜兴/nz  ～/w  总体/n  来说/uls  是/vshi  非常好的店/nt
+下次/t  还/d  会/v  再/d  去/vf  ～/w  要是/c  能/v  外卖/nz  就/d  更好/d  啦/y
+第一/m  次/qv  来/vf    /w  服务态度/nz  很好/ad    /w  菜品/n  很/d  可口/a  ??/w  粥/nf  很棒/a
+双拼/gi  鸡/n  也/d  好吃/a
+服务/vn  很/d  周到/a  空调/n  不/d  给/p  力/n  啊/y
+不够/a  冷/a
+空调/n  不/d  给/p  力/n  啊/y
+不够/a  冷/a
+味道/n  很/d  好吃/a
+服务/vn  也/d  很好/ad
+这次/r  忘记/v  拍照片/n  了/ule
+一直/d  都/d  很/d  喜欢/vi  吃/v  火/n  齐/a  的/ude1
+终于/d  开/v  在家/vi  门口/s  了/ule
+不用/d  再/d  跑/v  很远/d  吃/v  了/ule
+真是/d  太棒/nz  了/ule
+改进/v  的/ude1  地方吧/nt
+我/rr  觉得/v  打包/vi  袋/ng  可以/v  换成/v  纸袋/n  顺便/d  做/v  一个/mq  logo/nx
+这样/rzv  就/d  完美/a  了/ule
+推荐/v  虾蟹/nz  粥/nf
+螃蟹肉/v  很/d  鲜/a
+粥/nf  量/n  大/a  够/v  三/m  人/n  吃/v  火/n  齐潮汕/ns  砂锅/n  粥/nf  新开/ns  的慈云寺店/nt
+第一/m  次/qv  来/vf  的/ude1  时候/n  点/qt  了/ule  干贝/nf  虾蟹/nz  粥/nf  结果/n  粥/nf  里面/f  没/d  虾/n
+也/d  是/vshi  蛮/d  诧异/a
+估计/v  是/vshi  新店/ns  的/ude1  缘故/n  吧/y
+不过/c  店员/nnt  态度/n  很好/ad
+积极/ad  解决/v  了/ule
+第二/m  次/qv  来人就/nr  相对/d  多/a  了/ule  起来/vf
+不过/c  服务态度/nz  依然/d  辣/a  么好/nr  ～/w  这里/rzs  是/vshi  我/rr  吃/v  过/uguo  北京/ns  最/d  好吃/a  的/ude1  粥/nf
+最/d  好吃/a  的/ude1
+想/v  吃/v  很久/d  今天/t  终于/d  来/vf  拔草/vn  啦/y   /w  点/qt  了/ule  一大/n  堆/v  招牌菜/nz   /w  牛肉/nf  烧麦/nf  果然/d  非常/d  好/a  吃/v  多汁/n
+牛肉面/nf  皮/n  也/d  不错/a   /w  炸/v  的/ude1  金针菇/nf  脆/a  脆/a  的/ude1   /w  也/d  不是/c  太/d  咸/a  ～/w  点/qt  的/ude1  干贝/nf  虾蟹/nz  粥/nf  熬/v  的/ude1  糯/ag  糯/ag  的/ude1   /w  虾/n  处理/vn  得/ude3  非常/d  干净/a   /w  两/m  个人/n  把/pba  一大/n  窝/n  粥/nf  全部/n  喝完/v  啦/y  ～/w  ～/w  好喝/nz  好喝/nz   /w  而且/c  因为/c  吃/v  的/ude1  太/d  high/nx   /w  走/v  的/ude1  时候/n  忘了/v  拿/v  包/v  …/w  ……/w  还是/c  店员/nnt  追/v  出来/vf  给/p  我/rr  的/ude1  ……/w  超级/b  感谢/v  …/w
+味道/n  不错/a
+一直/d  很/d  喜欢/vi  他们/rr  家/q  …/w  ??????/w  干贝/nf  虾蟹/nz  粥/nf  +/w  财/n  鱼/n  +/w  田鸡/n  干贝/nf  虾蟹/nz  粥/nf  +/w  牛肉/nf  +/w  猪肝/nf  +/w  皮蛋/nf  面皮/nf  捞/v  牛肉/nf  火/n  齐/a  秘/b  制/v  琵琶/n  鸭/ng  豉/x  油鸡/n  椒盐/n  金针菇/nf  豉汁/nz  凤爪/nf  、/w  排骨/n  虾饺/nf  、/w  烧麦/nf  、/w  流沙/n  包/v  原来/d  总/b  去/vf  鼓楼/ns  的/ude1  火/n  齐/a
+一条街/ns  两边/f  各/rz  有/vyou  一家/n  一大/n  一小/d
+反倒/d  是/vshi  小店/n  更/d  有/vyou  味道/n  用料/n  非常丰富/l  期待/v  全/a  北京/ns  覆盖/v  味道/n  还/d  不错/a
+果然/d  是/vshi  专业/n  做/v  粥/nf  的/ude1
+这个/rz  粥/nf  确实/ad  很/d  鲜/a  啊/y
+??/w  虾/n  有/vyou  干贝/nf
+还/d  可以/v  随意/ad  添加/v  其他/rzv  海鲜/nf
+一/m  人份/n  也/d  很大/d
+两/m  个人/n  都/d  可以/v  喝/vn  的/ude1  饱饱/nz  的/ude1
+鸡肉/nf  拼盘/n
+那个/rz  脆皮鸡/nf  真的/d  好/a  脆/a
+口感/n  特好/d
+味道/n  也/d  超/v  棒/ng  ????/w
+但是/c  相比较/nz  来说/uls
+虾饺/nf  就/d  有点/d  太/d  太太/n  ……/w  太小/d  了/ule  ??/w
+喜欢/vi  喝粥/v  的/ude1  可以/v  常来/d
+位置/n  ：/w  慈云寺/nz  桥东/nz  大概/d  200/m  米/q
+周边饭馆/nt  林立/vi
+因为/c  最近/t  感冒/vi  想/v  吃/v  点/qt  清淡/a  、/w  暖和/a  的/ude1  就/d  和/cc  朋友/n  选/v  了/ule  这/rzv  家/q
+环境/n  ：/w  招牌/n  挺大/nt  的/ude1
+就/d  在/p  7/m  -/nx  11/m  的/ude1  正上方/f  二楼/ns
+门/n  比较/d  小/a  注意/v  别错过/l
+貌似/v  4/m  月份/n  新开/ns  的店/nt
+挺/d  干净/a  的/ude1
+桌椅/n  也/d  是/vshi  简洁/a  的/ude1  风格/n
+口味/n  ：/w  火/n  齐/a  他家/r  的/ude1  粥店/ns  都/d  是/vshi  连锁/vn  的/ude1
+所以/c  品质/n  、/w  味道/n  方面/n  算是/v  有/vyou  保证/v  的/ude1
+之前/f  在/p  鼓楼/ns  那边/rzs  就/d  喝/vg  他家/r  的/ude1  粥/nf
+上班/vi  这边/rzs  开/v  了店/nt  来/vf  尝/v  了/ule  味道/n  也/d  不错/a
+凉菜/nf  ：/w  穿心莲/n  、/w  小黄瓜/nz  特意/d  点/qt  的/ude1  爽口/a  的/ude1
+腐/vg  皮/n  牛肉/nf  是/vshi  特色菜/nz  每次/r  必点/nt
+就是/v  有点咸/nz  琵琶/n  鸭/ng  特别/d  好吃/a
+完全/ad  没有/v  鸭子/n  的/ude1  肥/n  油/n  沾上/v  两/m  种/q  蘸/v  料/n  香脆/nz  好吃/a  鸡肉/nf  有/vyou  三/m  种/q  口味/n
+可以/v  任选/v  两/m  个/q  做/v  拼盘/n
+朋友/n  点/qt  的/ude1  我/rr  忘了/v  叫/vi  什么/ry  了/ule
+呵呵/e  海鲜/nf  小炒/n  皇/ng  推荐/v  菜/n
+微/ag  甜/a  微/ag  辣/a
+虾仁/n  、/w  蟹棒/nz  一/m  吃/v  就/d  知道/v  很/d  新鲜/a  了/ule
+里面/f  的/ude1  蘑菇/nf  和/cc  蒜苔/nz  连/ulian  带着/vn  也/d  鲜味/n  十足/z
+海鲜/nf  粥/nf  ：/w  整/v  只/q  的/ude1  螃蟹/n  、/w  大/a  虾/n  、/w  干贝/nf  、/w  贝壳/nf  一起/s  熬/v  啊/y  熬/v
+米/q  油/n  都/d  熬出来/v
+鲜味/n  进入/v  到/v  粥/nf  里/f
+粘稠/a  鲜香/nz
+推荐/v
+人间/n  美味/n  仅此/d  一家/n
+好喝/nz  到/v  爆表/vn  的/ude1  粥/nf
+下回/t  还/d  去/vf
+慈云寺店/nt  环境/n  好/a   /w  店面/n  好找/a   /w  量/n  也/d  足/a
+超级/b  好吃/a   /w
+海鲜/nf  粥/nf  太/d  赞/vg  啦/y  嘻嘻/nz   /w  最主要/nz  的/ude1  是/vshi  这家/r  店老板/n  人/n  超/v  nice/nx
+长得/v  又/d  帅/ng  哈哈哈/o  小/a  伙伴们/nz  快/a  去/vf  拔草/vn  吧/y  ～/w  ～/w  约/d  起来/vf
+新开的粥店/nt
+昨天/t  去/vf  尝/v  了/ule  一下/m
+感觉/n  真的/d  很/d  不错/a
+服务到位/n
+菜/n  很/d  新鲜/a
+尤其/d  是/vshi  这个/rz  粥/nf  非常/d  的/ude1  好吃/a
+强力/n  推荐/vn  首先/d  要/v  说/v  服务/vn  非常/d  好/a
+进门/vi  入座/vi  之后/f  柠檬水/n  马上/d  就/d  端/v  上来/vf  了/ule
+这/rzv  点/qt  我/rr  很/d  满意/v
+菜品/n  质量/n  不错/a
+干贝/nf  虾/n  粥/nf  和/cc  鲍鱼/n  虾/n  粥/nf  量/n  都/d  很/d  足/a
+喝/vg  着/uzhe  很/d  舒服/a
+下次/t  还/d  会/v  再来/d
+小店/n  装修/vn  也/d  很/d  不错/a
+??/w  喝粥/v  经常/d  去/vf  的餐厅/nt
+味道/n  没得说/l
+非常/d  棒/ng
+说/v  要/v  加点/n  咸菜/nf
+店长/nnt  亲自/d  送过来/l
+火/n  齐/a  砂锅/n  粥/nf  里/f  这家/r  装修/vn  也/d  是/vshi  最好/d  的/ude1
+会/v  常/d  去/vf  的/ude1
+店面/n  比较/d  小/a
+在/p  二楼/ns
+服务/v  很好/ad
+服务员/nnt  态度/n  好/a
+点菜/vi  和/cc  加水/vi  都/d  很/d  积极/ad
+味道/n  还/d  可以/v
+第一/m  次/qv  吃/v  这种/r  潮汕/ns  粥/nf
+因为/c  不/d  太/d  喜欢/vi  在/p  粥/nf  里/f  有/vyou  壳/ng  什么/ry  的/ude1
+觉得/v  剃/v  起来/vf  麻烦/an
+所以/c  吃/v  的/ude1  不/d  太/d  爽/ag
+但/c  可能/v  吃/v  惯/v  了/ule  就/d  好了吧/l
+粥/nf  好/a  稠/a  啊/y
+里面/f  有/vyou  螃蟹/n
+大虾/n  ??/w
+烧鸭/nf  味道/n  也好/y  极了/y  一个/mq  人/n  胃/n  不/d  舒服/a  来/vf  喝粥/v
+他们/rr  家/q  炒/v  牛蛙/n  味道/n  绝/d  了/ule
+很/d  好吃/a
+环境/n  很/d  舒服/a
+服务/vn  不错/a
+菜/n  味/ng  很/d  不错/a
+叉烧/nf  的/ude1  味道/n
+老公/n  说/v  很/d  地道/a
+服务/vn  更好/d
+周到/a  的/ude1  服务/vn
+美味/n  的/ude1  菜肴/n
+非常/d  推荐/v  亲们/nz  来/vf  尝试/v  下/f
+第一/m  次/qv  来/vf  这个/rz  分店/nis
+跟/p  总店/nis  一样/uyy  的/ude1  品质/n
+关键/n  是/vshi  媳妇儿/nz  很/d  满意/v
+☺️/w  就是/v  门帘/n  不/d  太/d  惹人注意/i
+别错过/l  就/d  好/a
+家/q  附近/f  刚/d  开/v  的/ude1
+上来/vf  尝/v  一下/m  味道/n  惊喜/a  啊/y
+量/n  也/d  合适/a
+黄瓜/n  仔/ng  爽口/a
+琵琶/n  鸭/ng  酸咸/nz  口/n  也/d  不错/a
+粥/nf  的/ude1  份量/n  超级/b  足/a
+推荐/v
+还/d  也/d  会/v  再来/d  粥/nf  很棒/a   /w  海鲜/nf  很/d  新鲜/a   /w  感觉/n  好/a  养生/vn   /w  推荐/v  来/vf  哦/e  家门口/n
+菜/n  很/d  有/vyou  味道/n
+粥/nf  好吃/a
+面皮/nf  捞/v  牛肉/nf  和/cc  他们/rr  家/q  的/ude1  咸菜/nf  很/d  好吃/a  虾蟹/nz  粥/nf  不错/a
+味道/n  好/a  份量/n  足/a
+其他/rzv  几/d  款/q  凉菜/nf  也/d  很好/ad  …/w  干贝/nf  虾蟹/nz  粥/nf
+我/rr  的/ude1  最/d  爱/v  ??/w
+每次/r  必/d  点/qt  幸运/a  ～/w  赶上/v  有/vyou  一/m  桌/ng  吃完/v  准备/v  走/v  了/ule
+不然/c  还要/d  等/udeng  …/w  辣辣的/z  捞/v  牛肉/nf  吃/v  着/uzhe  过瘾/a
+鸭子/n  皮/n  脆/a  肉/n  嫩/a
+一定/b  先/d  不要/d  蘸/v  酱/n  尝一尝/v
+停不下来/v  ～/w  粥/nf  糯/ag  糯/ag  的/ude1  料/n  很/d  新鲜/a
+咸菜/nf  丝/n  也/d  很/d  喜欢/vi  的/ude1  说/v  ～/w  粥/nf  量/n  很大/d
+可以/v  盛/v  三小/j  碗/n
+黄瓜丝/nz  很/d  好吃/a  新/a  开店/vi  环境/n  好/a  不等/vi  位/q
+菜品/n  就/d  不用/d  提/v  了非常熟/nt
+周围/f  也/d  有/vyou  地方/n  可以/v  逛/v
+算是/v  北京/ns  周边环境/nz  最好/d  的/ude1  一家/n  吧/y
+服务/vn  非常/d  好/a
+菜品/n  也/d  很棒/a
+下次/t  还/d  会/v  带/v  朋友/n  来/vf
+经常/d  来/vf  吃/v
+很好/ad
+分量/n  很/d  足/a
+好吃/a
+大老远/nz
+专门/d  来/vf  吃/v  的/ude1
+样样/q  都/d  值得/v  推荐/v
+面皮/nf  捞/v  牛肉/nf
+特别/d  好吃/a
+炸/v  金针菇/nf  也/d  不错/a
+干贝/nf  虾蟹/nz  粥/nf
+足够/v  三四/m  个人/n  喝/vg
+料/n  足/a
+真材实料/nz  的/ude1  蟹/ng  和/cc  虾/n
+琵琶/n  鸭/ng
+凤梨/n  虾球/nf
+点/qt  的/ude1  窝/n  蛋/nf  牛肉/nf  粥/nf
+流沙/n  包/v  以及/cc  一个/mq  小菜/n
+味道/n  不错/a  又/d  打包/vi  了/ule  一/m  份/q  牛肉/nf  粥/nf  带回去/n  很/d  可口/a
+菜/n  做/v  的/ude1  也/d  很/d  精细/a
+推荐/v  呦/e
+环境/n  干净/a  整洁/a
+菜品/n  口味/n  令人满意/al
+服务员/nnt  服务/vn  意识/n  强/a
+下次/t  还/d  会/v  光临/v
+粥/nf  的/ude1  味道/n  非常/d  好/a
+服务员/nnt  推荐/v  的/ude1  鸭子/n  不错/a
+赞/vg  赞赞/nz  在/p  附近/f  考试/vn
+考完/nz  特地/d  又/d  来/vf  喝粥/v  啦/y
+粥/nf  好/a  鲜/a
+每/rz  口/n  都/d  好像/v  能/v  吃到/v  干贝/nf
+虾/n
+蟹肉/n
+好/a  丰盛/a  ；/w  吊/v  烧鸡/n  超级/b  推荐/v
+一个/m  不吃/v  鸡肉/nf  的/ude1  人/n
+又/d  破戒/v  了/ule
+鸡皮/n  薄薄/nz  脆/a  脆/a  的/ude1
+一点/m  不/d  油腻/a
+鸡肉/nf  超/v  入味/v
+偶尔/d  再/d  蘸/v  点/qt  酸酸甜甜/nz  的/ude1  酱/n
+两/m  个人/n
+半/mq  只鸡/nz  瞬间/n  就/d  被/pbei  抢/v  没了/v
+好/a  没出息/a  的/ude1  样子/n
+椒盐/n  金针菇/nf
+喜欢/vi  的/ude1  不要/d  不要/d  的/ude1
+比/p  在/p  大连/ns  吃/v  的/ude1  蛋黄/nf  焗/n  蘑菇/nf
+好吃/a  n/nx  倍/q
+还有/v  小/a  凉菜/nf  很/d  爽口/a
+面皮/nf  捞/v  牛肉/nf  和/cc  干贝/nf  虾蟹/nz  海鲜/nf  粥/nf  很/d  好吃/a
+新开/ns  的/ude1  店/n  ……/w  下次/t  再来/d  粥/nf  点/qt  的/ude1  干贝/nf  虾蟹/nz  粥/nf
+味道/n  还/d  比较/d  鲜美/a
+环境/n  比较/d  清爽/a
+菜品/n  不错/a
+服务到位/n
+分量/n  足/a
+交通/n  便利/an
+好/a  停车/vi  怀孕/vi  了/ule  没有/v  胃口/n
+发现/v  家门口/n  新开/ns  的店/nt
+一顿饭/nz  下来/vf  感觉/n  好久/mq  吃饭/vi  没/d  这么/rz  香/a  了/ule
+送/v  的/ude1  小/a  咸菜/nf  很/d  好吃/a  呢/y
+新来的店/ns
+过来/vf  尝尝/v
+服务/vn  特别/d  赞/vg  ～/w  菜/n  也/d  很棒/a
+刚/d  开/v  的/ude1
+非常/d  好吃/a
+还/d  不贵/a
+味道/n  非常/d  正宗/b
+还有/v  优惠/vn
+喝粥/v  很/d  健康/a
+海鲜/nf  很/d  新鲜/a
+特别/d  推荐/v  海鲜/nf  粥/nf
+琵琶/n  鸭/ng
+还有/v  送/v  的/ude1  小/a  咸菜/nf
+粥/nf  和/cc  咸菜/nf  更/d  配/v
+单位/n  附近/f  新开/ns  了/ule
+服务业/n  特别/d  棒/ng
+主动/ad  添水/nz  舔/v  小菜/n
+从鼓楼/ns  第一家店/ns  就/d  开始/v  喝/vg
+虽然/c  那时/rzt  侯店/nr  小/a  到/v  只有/c  6/m  张/q  桌子/n
+但是/c  特别/d  喜欢/vi  和/cc  闺蜜/nz  挤/v  在/p  一起/s  分享/v  一/m  锅/n  虾蟹/nz  粥/nf
+加/v  荠菜/nf
+还有/v  特别/d  好吃/a  的/ude1  咸菜/nf  ……/w  今天就一人/nt
+只/d  点/qt  了/ule  流沙/n  包和虾/nr  粥/nf
+特别/d  满足/v
+特别/d  满足/v
+特别/d  满足/v
+慈云寺/nz  这边/rzs  就/d  没/d  一家/n  好喝/nz  的/ude1  粥/nf
+现在/t  终于/d  有/vyou  了/ule
+简直/d  就是/v  脾胃/n  不好/a  人/n  的/ude1  福音/n
+吃/v  的/ude1  特别/d  开心/a  特别/d  愉快/a  ……/w  觉得/v  整个/b  下午/n  都/d  好/a  了/ule  ～/w  热乎乎/z  的/ude1  出/vf  了/ule  一身/n  汗/n
+特别/d  舒服/a
+平时/t  只/d  吃/v  不/d  点评/v
+但是/c  因为/c  实在太/n  愉快/a  了/ule
+手机/n  敲/v  了/ule  好多/mq  字/n
+味道/n  绝对/d  水准/n  之上/f
+周边/n  的/ude1  粥店/ns  没法/v  比/p
+大快朵颐/nz  之后/f  才/d  想起/v  拍照/vi  ??/w
+点/qt  的/ude1  窝/n  蛋/nf  牛肉/nf  粥/nf
+棒棒/nz  哒/o  ????/w
+我/rr  喜欢/vi
+芥末/nf  木耳/nf  很/d  爽口/a
+不错/a  不错/a
+还有/v  蔬菜/n  饼/n  很/d  好吃/a
+皮薄/nz  的/ude1  很/d
+干净/a
+清淡/a
+口味/n  好/a
+菜/n  也/d  新颖/a
+下回/t  还/d  来/vf  再次/d  光临/v
+味道/n  和/cc  服务/vn  依旧/z  赞/vg
+琵琶/n  鸭/ng  每次/r  都点/nt
+炸/v  金针菇/nf  也/d  不错/a
+推荐/v  干贝/nf  虾/n  粥/nf  餐厅/nis  刚/d  装修/v  完/vn
+这/rzv  是/vshi  第二/m  次/qv  来/vf  品尝/v
+点/qt  了/ule  一/m  份/q  一/m  人份/n  的/ude1  粥/nf  、/w  琵琶/n  鸭/ng  、/w  蛋黄/nf  流沙/n  包/v  、/w  黑芝麻/nz  流沙/n  包/v  、/w  水晶/n  虾饺/nf  …/w  来/vf  的/ude1  时候/n  不/d  排队/vi
+坐在/v  一个/mq  角落里/n
+所有/b  吃/v  的/ude1  大约/d  20/m  分钟/qt  全部/n  上/f  齐/a
+粥/nf  的/ude1  味道/n  非常/d  好/a
+尤其/d  是/vshi  琵琶/n  鸭/ng
+瘦/a  而/cc  不/d  腻/v
+配/v  以/p  甜面酱/n  和/cc  他家/r  的/ude1  特色/n  酸梅/n  酱/n  味道/n  绝/d  了/ule
+还有/v  就是/v  他家/r  的/ude1  蒸点/n  小吃/n
+便宜/a  又/d  好吃/a
+都是/nr  真材实料/nz
+再/d  说说/v  服务/vn
+非常/d  周到/a  热情/an  、/w  时不时/d  会/v  加水/vi  和/cc  咸菜/nf
+最后/f  还/d  询问/v  了/ule  是否/v  满意/v  菜品/n  和/cc  服务/vn
+真是/d  非常/d  的/ude1  贴心/a
+下次/t  还/d  会/v  光临/v
+不错/a
+和/cc  其他/rzv  的/ude1  店/n  口味/n  一样/uyy
+虾饺/nf  略微/d  逊色/a
+希望/v  以后/f  再/d  拉/v  晚一点/n
+11/m  点/qt  关门/vi  有点/d  早/a  吧/y  ？/w  上菜/n  快/a   /w  服务/v  好/a   /w  一如既往/vl  的/ude1  好吃/a   /w  新开业/nz   /w  来/vf  试试/v  朋友/n  推介/v  很好/ad
+干贝/nf  虾蟹/nz  粥/nf  量/n  很/d  足/a
+面皮/nf  捞/v  牛肉/nf  ??/w  胃/n  不/d  舒服/a  的/ude1  时候/n
+正好/z  找到/v  这家/r  粥店/ns
+新开/ns  不久/d
+点/qt  了/ule  推荐/v  的/ude1  干贝/nf  虾蟹/nz  粥/nf
+两/m  个人/n  喝/vg  的/ude1  很/d  舒服/a
+虾仁/n  猪肉/nf  烧麦/nf  略有/v  点点/v  腻/v
+不过/c  很/d  好吃/a
+面皮/nf  捞/v  牛肉/nf  也/d  是/vshi  推荐/v  的/ude1  一道菜/nz
+服务员/nnt  态度/n  都/d  很好/ad
+服务到位/n
+不停/v  的/ude1  加水/vi  加/v  咸菜/nf
+因为/c  配/v  粥/nf  吃/v  的/ude1  咸菜/nf  口感/n  真的/d  很/d  赞/vg
+真/a  想/v  打包/vi  一些/m  回家/vi  喝粥/v  吃/v  ～/w  刚/d  开/v  没多久/l
+服务/vn  真的/d  非常/d  好/a
+之前/f  在/p  老/a  国展/vn  后门/n  那/rzv  点/qt  老/a  吃/v
+但是/c  那家/r  的/ude1  钱老/nr  收错/v
+而且/c  粥/nf  巨/ag  慢/a
+但是/c  这家/r  真的/d  超/v  好/a
+粥/nf  上/f  的/ude1  很快/d
+而且/c  服务/vn  很/d  周到/a
+特别/d  是/vshi  一个/mq  男孩/n  也/d  不/d  知道/v  是/vshi  领班/nnt  还是/c  经理/nnt
+我/rr  一/m  上楼/ns  就/d  招呼/v  着/uzhe
+听/v  口音/n  像/v  咱们/rr  北京/ns  老爷们/nz
+吃完/v  了/ule  还/d  会/v  问/v  口味/n  怎么样/ryv
+以后/f  会/v  经常/d  来/vf
+他家/r  粥/nf  本来/d  就/d  很好/ad  喝/vg
+送/v  的/ude1  小菜/n  拌/v  粥/nf  里/f  超美/nz  味/ng
+服务/vn  又/d  好/a
+完美/a  ～/w  经常/d  光顾/v  南锣鼓巷店/ns
+公司/nis  附近/f  新开/ns  的店/nt
+乐颠颠/z  得/ude3  就/d  来/vf  了/ule
+味道/n  一级/b  棒/ng  ～/w  公司/nis  附近/f  新开/ns  的店/nt
+味道/n  不错/a
+特别/d  推荐/v  流/v  沙包/n
+还有/v  各种/rz  小/a  点心/nf  都/d  很/d  好吃/a
+服务态度/nz  好/a  好/a
+很/d  贴心/a
+味道/n  好/a  棒/ng
+好/a  舒服/a  吃完/v
+终于/d  不用/d  去/vf  南锣鼓巷/ns  排队/vi  了/ule
+棒棒/nz  哒/o  服务/v  挺好/nz  的/ude1   /w  菜品/n  也/d  不错/a   /w  下回/t  再来/d   /w  凑/v  不够/a  了/ule  好吃/a
+下次/t  还/d  来/vf
+推荐/v  粥/nf  和/cc  黄瓜/n
+实惠/an  味道/n  不错/a
+服务/vn  也/d  很/d  到位/vi
+环境/n  也/d  比较/d  好/a  ……/w  蔬菜/n  粥/nf  很好/ad
+看见/v  了/ule  没/d
+没有/v  剩/v  哦/e
+粥/nf  还/d  不/d  不错/a
+味道/n  挺好/nz
+以后/f  喝粥/v  空调/n  一定/b  要/v  开/v  足/a
+热/a  啊/y  ⋯⋯/w  味道/n  可以/v
+出品/vi  不错/a
+菜/n  量/n  还行/v
+粥/nf  不错/a
+好吃/a  又/d  不贵/a   /w  店员/nnt  挺/d  有意思/al  的/ude1   /w  不管/c  多/a  远/a  以后/f  喝粥/v  就/d  来/vf  这儿/rzs  啦/y  赶着/nz  大日子/nrj  来/vf  着/uzhe  吃/v  一/m  顿/qv
+终于/d  在/p  公司/nis  附近/f  开店/vi  啦/y
+很/d  好吃/a  的/ude1  虾蟹/nz  粥/nf
+满足/v
+这家/r  店/n  是/vshi  新开/ns  的/ude1   /w  环境/n  很好/ad   /w  服务员/nnt  也/d  很好/ad   /w  菜品/n  口味/n  很/d  正宗/b   /w  海鲜/nf  粥/nf  很/d  好喝/nz   /w  特别/d  的/ude1  新鲜/a   /w  枇杷/nf  鸭/ng  很/d  酥脆/a   /w  推荐/v  这家/r  店/n
+粥/nf  很/d  好喝/nz  ~/nx  料/n  也/d  特别/d  足/a
+干贝/nf  虾蟹/nz  粥/nf  强推/nz
+粥/nf  不错/a   /w  好喝/nz   /w  服务态度/nz  不错/a   /w  点/qt  赞/vg   /w  还/d  会/v  再来/d  新开业的餐厅/nt
+环境/n  超级/b  好/a
+最爱/a  喝粥/v
+点/qt  了/ule  虾蟹/nz  粥/nf
+很/d  合/v  我/rr  的/ude1  口味/n
+服务/vn  也/d  超级/b  好/a
+下次/t  再来/d  啦/y
+好/a  惊喜/a
+慈云寺/nz  居然/d  也/d  有了分店/nt
+以后/f  再也/d  不用/d  跑/v  那么/c  远/a  喝粥/v  了/ule
+一直/d  特别/d  喜欢/vi  火/n  齐/a
+终于/d  在/p  家/q  附近/f  来/vf  了/ule
+啦啦/nz  啦/y
+以后/f  经常/d  来/vf
+还/d  不错/a  挺好吃/a  的/ude1   /w  店里/n  挺/d  干净/a   /w  下次/t  还/d  回去/v  不错/a  挺好/nz  的/ude1
+以前/f  也/d  吃/v  过/uguo
+都/d  不错/a  很/d  不错/a  的/ude1  味道/n  呦/e   /w  环境/n  也/d  很好/ad   /w  有/vyou  很/d  浓郁/a  的/ude1  潮汕地区/nz  味道/n  哈/b
+犒劳/v  自己/rr  和/cc  心爱/b  的/ude1  她/rr
+味道/n  很好/ad
+值得/v  一/m  去/vf
+味道/n  特别/d  好/a
+每/rz  一道/d  摆/v  盘/qv  也好/y  漂亮/a
+而且/c  服务员/nnt  态度/n  超/v  好/a
+很/d  细心/a
+口感/n  特别/d  好/a    /w  服务/vn  人员/n  的/ude1  态度/n  也/d  满分/n   /w  下次/t  一定/b  再/d  去/vf  光顾/v  带/v  家人/n  来/vf  吃/v
+老人/n  觉得/v  很/d  好吃/a
+北京/ns  有/vyou  好多/m  家/q  分店/nis
+每家/r  都/d  很/d  喜欢公司/nt  附近/f  新开/ns  的/ude1  潮汕/ns  砂锅/n  粥/nf   /w  之前/f  就/d  听/v  老公/n  推荐/v  过/uguo   /w  没想到/nz  附近/f  开/v  了/ule   /w  因为/c  是/vshi  孕妇/n   /w  没能/v  点/qt  招牌/n  的/ude1   /w  海鲜类/nz  砂锅/n  粥/nf   /w  点/qt  的/ude1  一/m  人份/n  窝/n  蛋/nf  牛肉/nf  粥/nf   /w  还有/v  蛋黄/nf  流沙/n  包/v   /w  和/cc  虾仁/n  猪肉/nf  烧麦/nf   /w  跟/p  妈妈/n  两/m  个人/n  吃/v  竟然/d  也/d  将将/d  能/v  饱/a   /w  粥/nf  量/n  不小/a    /w  妈妈/n  尤其/d  喜欢/vi  这/rzv  的/ude1  咸菜/nf   /w  据说/v  是/vshi  特制/b  的/ude1   /w  口感/n  不错/a   /w  比/p  一般/ad  的/ude1  咸菜/nf  好吃/a   /w  店家/n  人/n  好/a   /w  竟然/d  还/d  送/v  了/ule  两/m  小包/n    /w  蛋黄/nf  流沙/n  包/v   /w  印象/n  深刻/a   /w  很/d  好吃/a   /w  有/vyou  沙沙/o  的/ude1  口感/n   /w  像/v  黑芝麻/nz  馅/ng  那种/r   /w  比/p  一般/ad  的/ude1  奶/nf  黄/a  包好/v  吃/v  太多/ad  啦/y   /w  店家/n  服务态度/nz  很好/ad  ～/w  粥/nf  好喝/nz
+凉皮/nf  好吃/a
+鸡肉/nf  也好/y
+总之/c  比/p  想象/v  的/ude1  要好/a
+光顾/v  着/uzhe  吃/v
+忘了/v  拍照/vi  跟/p  双井店/nt  一样/uyy  味道/n  好/a  琵琶/n  鸭/ng  好吃/a  推荐/v
+跟/p  几/d  个/q  朋友/n  逛街/vi  偶然/a  经过/p  发现/v  的/ude1  小店/n
+朋友/n  说/v  火/n  齐/a  很/d  有名/a
+我/rr  竟然/d  从来/d  没有/v  吃/v  过/uguo  ??/w
+点/qt  了/ule  几样/nz  配菜/nz  觉得/v  爽口/a  开胃/a
+最后/f  一大/n  锅/n  粥/nf  仨/mq  人/n  更是/d  吃/v  得/ude3  一点儿/mq  没剩/v
+多/a  了/ule  不说/c
+真的/d  觉得/v  好吃/a
+服务态度/nz  也/d  超/v  赞/vg
+希望/v  继续/v  保持/v  哈/b
+以后/f  少不了/vl  会/v  经常/d  光顾/v  啦/y  ??/w  整体/n  的/ude1  环境/n  和/cc  口味/n  都/d  不错/a
+工作日/n  的/ude1  中午/t  还/d  爆满/vi
+粥/nf  和/cc  小菜/nr  的/ude1  口味/n  也/d  很/d  不错/a
+超/v  好喝/nz  的/ude1  粥/nf  '/nx  料/n  特别/d  足/a  '/nx  前台/n  小哥/nz  也/d  很帅/nz  '/nx  下次/t  还/d  会/v  来/vf  ～/w  和/cc  朋友/n  一起/s  过/uguo  去/vf  吃/v  中饭/n   /w  新开/ns  没多久/l  吧/y   /w  粥/nf  有些/rz  稀/a  ../w  不过/c  服务/vn  还是/c  不错/a  的/ude1  哦/e   /w  我/rr  喜欢/vi  喝粥/v   /w  尤其/d  是/vshi  海鲜/nf  粥/nf   /w  所以/c  以后/f  还/d  会/v  来哈/nr   /w  加油/vi   /w  因为/c  在/p  双井/nz  那家/r  店/n  吃/v  了/ule  很/d  多次/m  了/ule   /w  这/rzv  吃/v  也/d  没/d  拍/v  好看/a  的/ude1  照片/n   /w  凑合着/a  看吧/nz  今天/t  路过/v  发现/v  什么/ry  时候/n  冒出/vf  一/m  粥店/ns
+就/d  进来/vf  尝尝/v
+太/d  出乎意料/vl  了/ule
+味道/n  赞/vg  不说/c
+料/n  十足/z  啊/y
+粥/nf  也/d  很/d  粘稠/a
+菜品/n  味道/n  也/d  很好/ad
+总之/c  好吃/a  好吃/a  好吃/a
+推荐/v  干贝/nf  虾蟹/nz  粥/nf
+奇葩/n  鸭/ng
+面皮/nf  捞/v  牛肉/nf
+真心/d  好吃/a  啊/y
+装潢/n  也好/y  清新/a
+就是/v  地儿/n  小/a  了/ule  点/qt  孩子/n  上课/vi  的/ude1  地方/n  开/v  了/ule  砂锅/n  粥/nf
+真是/d  想/v  啥/ry  来/vf  啥/ry
+点/qt  了/ule  两/m  人份/n  的/ude1  鲜贝/nz  虾蟹/nz  粥/nf
+粥/nf  软/a  诺咸鲜/nr
+整/v  只/q  的/ude1  蟹/ng
+甜甜的/z  虾/n
+看来/v  老板/nnt  用料/n  十分/d  新鲜/a
+孩子/n  不/d  爱/v  海鲜/nf
+还是/c  喝/vg  了/ule  一大/n  碗/n
+琵琶/n  鸭/ng  皮/n  酥/a  脆/a  肉/n  嫩/a
+是/vshi  宝宝/n  的/ude1  最爱/a
+茶香/nz  小排/nz
+单就/nr  吃/v  炸/v  的/ude1  酥脆/a  的/ude1  茶叶/n  就/d  齿颊/nz  留香/nz  了/ule
+真是/d  又/d  解/v  腻/v  又/d  解馋/a
+火/n  齐/a
+怎能/d  让/v  我/rr  不/d  爱/v  你/rr
+服务/vn  热情/an  、/w  干贝/nf  虾蟹/nz  粥/nf  味道/n  新鲜/a  、/w  琵琶/n  鸭/ng  最/d  赞/vg  、/w  皮/n  酥/a  脆/a  、/w  口感/n  非常/d  好/a
+各色/r  凉菜/nf  也/d  很/d  到位/vi
+粥/nf  品/ng  不错/a
+还/d  点/qt  了/ule  份/q  盐焗鸡/nf
+据说/v  制作/v  过程/n  中/f  全部/n  用/p  的/ude1  天然/b  植物/n  调料/n
+所以/c  比/p  外面/f  卖/v  的/ude1  味道/n  淡/a
+但是/c  全部/m  是/vshi  天然/b  的/ude1
+良心/n  品质/n
+良心/n  推荐/v
+新开的店/nt
+还是/c  一贯/d  火/n  齐/a  的/ude1  味道/n
+赞/vg  一个/m
+下次/t  再/d  约/d  起/vf  终于/d  开业/vi  了/ule
+味道/n  持续/vd
+适合/v  聚会/vi  的/ude1  火/n  齐/a
+老婆/n  最爱/a  的/ude1  粥店/ns  终于/d  开/v  到家/a  门口/s  了/ule  这下/r  方便/a  了/ule
+粥/nf  品/ng  非常/d  不错/a
+喜欢/vi  粥/nf  的/ude1
+喜欢/vi  海鲜/nf  的/ude1  都/d  可以/v  来/vf  试试/v  什么/ry  时候/n  开店/vi
+期待/v  期待/vn
+我/rr  的/ude1  最爱/a  了/ule  昨天/t  在/p  双井店/nt  吃/v  过/uguo
+味道/n  很好/ad
+据说/v  这个/rz  店/n  五一/m  前/f  开业/vi
+在/p  莱锦/nr  门口/s  哎/e  什么/ry  时候/n  开店/vi   /w  好/a  期待/v  好/a  期待/v   /w  我/rr  的/ude1  天/qt  呐/y   /w  以后/f  下楼/v  就/d  可以/v  喝粥/v  了/ule   /w  不用/d  大/a  半夜/t  跑到/v  双井/nz  那家/r  店/n  了/ule  ??????/w  好/a  捉/v  急/v  ./w  具体位置/nz  ？/w  什么/ry  时候/n  开始/v  啊/y  啊啊/e  哇塞/nrf
+慈云寺/nz  要/v  开店/vi  了/ule  耶/b
+好/a  期待/v

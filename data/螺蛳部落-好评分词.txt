@@ -1,0 +1,523 @@
+分量/n  很大/d
+味道/n  不错/a
+价格/n  也/d  很/d  实惠/an
+地方/n  很好/ad  找/v
+离/v  交大/nis  东路/n  公交站/n  很/d  近/a
+服务员/nnt  阿姨/n  人/n  超级/b  好/a
+我/rr  自己/rr  一个/mq  人/n  去/vf  吃饭/vi
+还/d  多/a  送/v  了/ule  我/rr  一个/mq  鸭脚/nz
+大/a  晚上/t  的/ude1  自己/rr  下班/vi  来/vf  吃/v  点儿/q  东西/n  还/d  能/v  遇见/v  这么/rz  好/a  的/ude1  人/n
+超/v  感动/v  味道/n  一般/ad  般/uyy
+汤有点/nr  甜/a
+不/d  香/a
+口感/n  差一点/d  已经/d  吃/v  过/uguo  几/d  家/q  螺蛳/nf  粉/ag
+小/a  螺号/n
+八十八/m  粉/ag  儿/ng
+螺蛳/nf  粉/ag  先生/n
+螺丝/n  部落/n  的/ude1  位置/n  不算/v  好/a
+交通/n  不是/c  很/d  方便/a
+【/w  位置/n  】/w  交大东路60号/nt
+地铁/n  2/m  号/q  线/n
+4/m  号/q  线/n
+13号线西直门站/nt
+公交车/nz  交大东路南口站/ns
+多/a  辆/q  公交车/nz  途径/n  此/rzs  站/vi
+如/v  运通/nz  103/m
+交通/n  不/d  甚/dg  便利/an
+晚上/t  开始/v  增加/v  了/ule  烧烤/vn  排档/nz   /w  服务员/nnt  有些/rz  忙不过来/l   /w  但/c  依旧/z  很/d  好吃/a   /w  花生米/n  没有/v  原来/d  的/ude1  香/a  了/ule   /w  卤蛋/nf  略/d  咸/a   /w  习惯性/n  好评/n  了/ule  很/d  好吃/a
+香辣/n  的/ude1  特别/d  辣/a
+分量/n  太/d  足/a  味道/n  不错/a
+螺丝/n  处理/vn  的/ude1  非常/d  干净/a
+第二/m  次/qv  来/vf  了/ule
+五一/m  赶上/v  老板/nnt  包饺子/nf
+还/d  请/v  店/n  内/f  顾客/n  一起/s  吃/v
+很/d  热情/an
+就/d  凭/p  这份/r  热情/an
+我/rr  给/p  他家/nt  打/v  满分/n
+以后/f  常来/d
+也/d  会/v  推荐/v  给/p  好友/n  们/k
+美中不足/bl  的/ude1  是/vshi  环境/n  稍微/d  有点/d  热/a
+要/v  了/ule  麻辣烫/nf
+酸/a  粉/ag  和/cc  螺丝/n  肉/n
+人均/a  不贵/a
+吃/v  撑/v  了/ule
+螺蛳/nf  粉/ag  真的/d  是/vshi  很/d  正宗/b
+很/d  好吃/a
+还/d  会/v  再来/d  的/ude1  很/d  地道/a
+也/d  很/d  正宗/b
+值得/v  经常/d  去/vf  吃/v  味道/n  还/d  可以/v
+分量/n  很大/d
+感觉/n  不是/c  很/d  臭/a
+服务/vn  特别/d  好/a  非常/d  好吃/a
+环境/n  干净/a  整洁/a
+服务/vn  阿姨/n  也/d  很/d  热情/an
+鸭脚/nz  猪脚/n  炖/v  的/ude1  软/a  糯/ag  入味/v
+还/d  会/v  再/d  去/vf  的/ude1
+交大/nis  东路/n  和/cc  交通大学/ns  路/n  交叉口/n
+唐朝/t  KTV/nx  楼下/s
+云/vg  川/b  台球/n  旁边/f
+位置/n  还算/v  明显/a
+屋子/n  并不大/v
+吃饭/vi  的/ude1  看起来/v  都/d  是/vshi  大学生/nnt
+墙上/s  都/d  是/vshi  涂鸦/vi
+环境/n  轻松/a  惬意/a
+点/qt  了/ule  个/q  屌丝/nz  套餐/n
+螺狮/nr  粉/ag  +/w  木耳/nf  +/w  鸡蛋/nf  +/w  北冰洋/nsf
+螺狮/nr  粉/ag  味道/n  真的/d  不/d  错/v
+跟/p  在/p  广西/ns  吃/v  的/ude1  味道/n  差不多/al
+酸酸/nz  辣辣/nz
+木耳/nf
+酸/a  笋/n  口感/n  也/d  很好/ad
+以后/f  会/v  经常/d  过来/vf
+还/d  可以/v
+好久没/i  吃/v  了/ule
+遇到/v  了/ule  进来/vf  吃/v  一/m  次/qv  从/p  知道/v  螺蛳/nf  粉/ag  就/d  一直/d  在/p  搜罗/v  北京/ns  的/ude1  各个/rz  螺蛳/nf  粉店/n
+从/p  螺蛳/nf  粉/ag  先生/n  到/v  水平/n  有限/a
+再/d  到/v  这个/rz  螺蛳/nf  部落/n
+感觉/n  这家/r  的/ude1  螺蛳/nf  粉/ag  味道/n  更/d  正宗/b
+而且/c  环境/n  也/d  更好/d
+每次/r  来他家/nt  吃饭/vi  都/d  有/vyou  种/q  回家/vi  的/ude1  感觉/n
+基本/a  隔三差五/vl  就/d  会/v  过来/vf  吃/v  一/m  次/qv
+我/rr  喜欢/vi  猪蹄/nf
+每次/r  都会/n  加/v  卤蛋/nf
+猪蹄/nf
+薄脆/n
+再/d  加上/v  一/m  瓶/n  北冰洋/nsf
+简直/d  是/vshi  绝配/nz  了/ule
+祝/v  这家/r  店/n  越来越/d  好/a  吧/y
+做出/v  真正/d  对/p  螺蛳/nf  粉/ag  热爱/v  的/ude1  食客/nnd  们/k  喜欢/vi  的/ude1  东西/n  来/vf
+很/d  好吃/a  的/ude1  一家/n  店/n
+第一/m  次/qv  吃/v  螺蛳/nf  粉/ag
+味道/n  很棒/a
+就/d  连宝宝/nr  也/d  爱吃/v  炸/v  腐竹/n
+店员/nnt  很/d  热心/a  的/ude1  另/rz  给/p  宝宝/n  拿/v  了/ule  单独/d  的/ude1  小碗/n
+砂锅/n  的/ude1  味道/n  也/d  很棒/a
+简直/d  充满/v  了对大学/nt  时光/n  的/ude1  回忆/vn
+最重要/nz  的/ude1  是/vshi  干净/a  卫生/an
+给/p  老板/nnt  点/qt  赞/vg
+螺蛳/nf  粉/ag  好吃/a  的/ude1  不得了/l
+其实/d  是/vshi  偶然/a  遇见/v  的/ude1  这个/rz  小店/n
+还要/d  感谢/v  单位/n  伙食/n  太次/nz
+没到/v  下午/t  就/d  饿/v  了/ule
+饥肠辘辘/vl  的/ude1  时候/n  看见/v  了/ule  这家/r  店/n
+店面/n  不大/d
+看/v  菜单/n  点/qt  了/ule  碗/n  招牌/n  的/ude1  粉/ag
+上桌/v  就/d  觉得/v  跟/p  别处/rzs  不/d  一样/uyy
+碗/n  的/ude1  最上层/f  是/vshi  个/q  炸物/nz
+下面/f  有/vyou  不少/mq  东西/n
+那么/c  大一/j  碗/n
+咬/vi  口/n  那/rzv  脆/a  脆/a  的/ude1  像/v  面片/nz  又/d  像/v  腐竹/n  片/q
+反正/d  挺好吃/a
+里面/f  有/vyou  菜/n  有/vyou  炸/v  好/a  的/ude1  花生米/n
+有/vyou  粉/ag
+最喜欢/nz  酸/a  笋/n  了/ule
+螺/ng  师粉/nr  主要/b  吃/v  的/ude1  就是/v  鲜/a  酸/a  烫/v  还有/v  辣/a
+这家/r  做/v  的/ude1  跟/p  我/rr  在/p  广西/ns  吃/v  的/ude1  味道/n  一样/uyy
+以后/f  会/v  经常/d  光顾/v  的/ude1
+不错/a
+推荐/v
+他家/r  离/v  交大/nis  近/a
+连/ulian  墙上/s  装修/vn  都/d  投/v  着/uzhe  文艺/n  范就/nr  还好/v  啦/y
+室友/n  很/d  喜欢/vi
+公司/nis  附近/f  的/ude1  小店/n
+味道/n  很好/ad
+服务态度/nz  特别/d  好/a
+好吃/a
+每个/r  星期/n  都会/n  去/vf  吃/v
+不过/c  牛肉/nf  粉/ag  感觉/n  里面/f  太黑/ns  了/ule
+应该/v  是/vshi  汤/n  的/ude1  料/n  比较/d  多/a  挺好/nz  的/ude1
+作为/p  广西/ns  人/n
+粉/ag  可以/v  再/d  入味/v  一点/m  也/d  还/d  不错/a
+可以/v  去/vf  吃/v  啊/y
+有/vyou  机会/n  还/d  会/v  去/vf  的/ude1  ～/w  好吃/a  好吃/a
+(๑•ั็/w  ω/n  •็ั๑)/w  来/vf  了/ule  无数/m  次/qv  了/ule  哦/e
+~/nx  挺好吃/a  的/ude1  一家/n  店/n
+推荐/v  大家/rr  过来/vf
+位置/n  也/d  比较/d  好找/a
+服务员/nnt  态度/n  不错/a
+螺蛳/nf  粉/ag  闻/v  着/uzhe  好/a  香/a  不错/a  哦/e
+环境/n  也/d  很/d  舒适/a
+有/vyou  电视/n
+有/vyou  暖气/n
+有/vyou  图片/n  墙/n  非常/d  的/ude1  地道/a
+天天/d  都/d  要/v  吃/v
+吃/v  过/uguo  最/d  好吃/a  的/ude1  米粉/nf
+加上/v  酸/a  笋/n  简直/d  无法形容/nz
+大家/rr  应该/v  试试/v
+很/d  好吃/a  的/ude1  螺蛳/nf  粉/ag
+量/n  很/d  足/a
+环境/n  也/d  不错/a
+值得/v  推荐/v
+第二/m  次/qv  来/vf   /w  很/d  不错/a   /w  推荐/v  大家/rr  来/vf  吃吃/nz  …/w  店员/nnt  很/d  热情/an
+小店/n  布置/v  的/ude1  很/d  温馨/a
+螺蛳/nf  粉/ag  很/d  便宜/a
+味道/n  嘛/y
+不是/c  太/d  习惯/n  吃/v
+建议/n  店家/n  多/a  开发/vn  点/qt  菜品/n
+除了/p  螺蛳/nf  粉/ag  可选择/nz  的/ude1  其他/rzv  吃/v  的/ude1  太少/d  距离/n  学校/nis  很/d  近/a
+螺丝/n  粉/ag  也/d  挺好/nz  的/ude1
+跟/p  舍友/nz  一起/s  出来/vf  这里/rzs  吃/v  粉/ag  是/vshi  一个/mq  很好/ad  的/ude1  选择/vn  哦/e  跟/p  同学/n  一起来/nz  的/ude1   /w  老顾客/nz  了/ule   /w  好好/d  吃/v              /w  也/d  如果/c  柳州/ns
+从此/d  就/d  喜欢/vi  上/f  了/ule  螺狮/nr  粉/ag
+就/d  在/p  学校/nis  旁边/f
+经常/d  下课/vi  过来/vf  吃/v
+味道/n  和/cc  服务/vn  都/d  很好/ad
+比较/d  正宗/b
+味道/n  很好/ad
+也/d  是/vshi  大家/rr  都/d  能/v  接受/v  的/ude1
+推荐/v  大家/rr  来/vf
+虽然/c  没有/v  去/vf  过/uguo  当地/s
+不/d  知道/v  它/rr  原始/a  的/ude1  味道/n
+但是/c  挺好吃/a  的/ude1
+配料/n  很/d  丰富/a
+汤/n  的/ude1  味道/n  很/d  鲜/a
+我/rr  很/d  喜欢/vi
+推荐/v
+先/d  说/v  结论/n
+这/rzv  是/vshi  一家/n  很/d  值得/v  去/vf  的/ude1  小店/n
+开在/v  家门口/n  的/ude1  店/n
+今天/t  正好/z  晚上/t  在/p  外面/f  吃/v  就/d  进来/vf  试试/v  了/ule
+距离/n  店/n  还有/v  几/d  十/m  米/q  就/d  闻到/v  一/m  股/q  酸/a  笋/n  的/ude1  味道/n
+环境/n  很/d  不错/a
+在/p  小店/n  中/f  算是/v  高大/a  上/f  的/ude1  了/ule
+口味/n  也/d  不错/a
+他家/r  和/cc  别家/nz  的/ude1  螺蛳/nf  粉/ag  不/d  一样/uyy
+只有/c  大小/n  碗/n
+配菜/nz  是/vshi  单点/n  的/ude1
+服务/vn  也/d  很好/ad
+几/d  个/q  服务员/nnt  都/d  很/d  真诚/a
+结账/vi  的/ude1  时候/n  还/d  提醒/v  我/rr  怎样/ryv  买单/vn  最/d  划算/a
+除了/p  螺蛳/nf  粉/ag  还有/v  面/nf   /w  砂锅/n
+没吃过/l  就/d  不/d  评价/v  了/ule
+看/v  菜单/n  有/vyou  砂锅/n  鸭血/nf  哦/e
+下次/t  一定/b  试试/v
+好好/d  吃/v
+第一/m  次/qv  吃/v  螺蛳/nf  粉/ag
+一/m  整个/b  宿舍/n  都/d  来/vf  了/ule
+而且/c  写/v  点评/vn  还/d  可以/v  送粥/nz  ~~~/nx  里面/f  配菜/nz  挺/d  多/a  的/ude1
+好/a  大一/j  碗/n  吃/v  得/ude3  饱饱/nz  的/ude1
+以后/f  还要/d  常来/d
+离/v  交大/nis  也/d  特别/d  近/a
+好评/n
+价格/n  也/d  不/d  高/a
+很/d  实惠/an
+宿舍/n  五/m  个人/n  来/vf  吃/v  的/ude1
+味道/n  特别/d  好/a
+螺蛳/nf  粉/ag  味道/n  挺好/nz  的/ude1
+吃/v  的/ude1  很/d  开心/a
+赶快/d  来/vf  吃吧/nz  ……/w  非常/d  好/a
+第/m  三/m  次/qv  来/vf  了/ule  ~/nx  一/m  进门/vi  还是/c  熟悉/v  的/ude1  味道/n  ~/nx  味道/n  太/d  赞/vg
+老板/nnt  人/n  好/a
+还差/nz  五/m  个/q  字/n  挺好/nz
+很香/nz  很/d  实惠/an
+下回/t  还/d  会/v  再来/d  非常/d  好吃/a
+螺蛳/nf  粉/ag  超级/b  正宗/b
+服务员/nnt  态度/n  很好/ad
+环境/n  赞/vg  离家近/v
+很/d  方便/a
+环境/n  好/a
+味道/n  不错/a
+以后/f  可以/v  常来/d  吃/v  咯/y  第一/m  次/qv  来/vf  吃/v
+要/v  了/ule  螺蛳/nf  粉/ag  和/cc  砂锅/n  面/nf  、/w  味道/n  非常/d  赞/vg
+服务/vn  相当/d  热情/an
+下次/t  还/d  会/v  来/vf
+环境/n  好/a
+味道/n  也/d  不错/a
+服务员/nnt  更是/d  没得说/l  ……/w  好/a  味道/n  正宗/b  ./w  服务/v  好/a
+推荐/v  大份/ns  加大/v  肠/n  的/ude1  搭配/vn  第/m  三/m  次/qv  来/vf  了/ule
+味道/n  和/cc  分量/n  都/d  不错/a
+好/a
+不错/a  哦/e
+真的/d  挺好吃/a  的/ude1  呀/y
+啦啦/nz  啦啦/nz  第二/m  次/qv  来/vf  了/ule    /w  味道/n  很/d  正宗/b  哦/e    /w  以后/f  还/d  会/v  常来/d  同学/n  一直/d  说/v  好吃/a
+今天/t  终于/d  过来/vf  了/ule
+是/vshi  真的/d  好吃/a  呢/y
+螺蛳/nf  粉/ag
+她/rr  的/ude1  最爱/a  服务态度/nz  不错/a  ；/w  点评/v  送粥/nz
+粥/nf  挺好/nz
+关键/n  是/vshi
+螺丝/n  粉/ag  好/a
+薄脆/n  、/w  豆皮/nf  、/w  汤/n  、/w  粉/ag  的/ude1  味道/n  都/d  不错/a  这家/r  螺蛳/nf  粉/ag  店面/n  很/d  有/vyou  特色/n
+味道/n  也/d  很/d  正宗/b
+在/p  外面/f  就/d  闻到/v  了/ule  浓浓的/z  螺蛳/nf  汤/n  的/ude1  味道/n
+汤底/nr  很/d  浓郁/a
+咸淡/nz  合适/a
+一大/n  碗/n  非常/d  实惠/an
+店家/n  服务/vn  也/d  很好/ad
+每个/r  服务员/nnt  都/d  很/d  热情/an
+砂锅/n  味道/n  也/d  很好/ad
+非常/d  推荐/v
+物美价廉/vl  口感/n  微/ag  辣/a
+真的/d  很/d  好吃/a
+满/a  30/m  还/d  赠/v  了/ule  一碗粥/nz
+棒棒/nz  哒/o
+很/d  喜欢/vi
+下次/t  还/d  来/vf  味道/n  很好/ad  ～/w  ～/w  ～/w  环境/n  也/d  不错/a
+服务员/nnt  妹妹/n  也/d  很/d  美丽/a  很/d  好吃/a
+环境/n  不错/a
+还有/v  赠/v  送粥/nz
+非常/d  好/a  味道/n  很/d  赞/vg
+干净/a
+卫生/an
+会/v  常来/d
+味道/n  很好/ad
+给/p  的/ude1  小菜/n  又/d  很/d  多/a
+环境/n  很好/ad
+干净/a  卫生/an
+不会/v  太/d  挤/v
+老板/nnt  人/n  又/d  好/a
+还/d  能/v  在/p  墙壁/n  上/f  留言/n
+环境/n  蛮好/nz  的/ude1
+服务/vn  很/d  周到/a
+螺蛳/nf  味道/n  很/d  地道/a  第一/m  次/qv  来/vf
+觉得/v  环境/n  挺好/nz  的/ude1
+下次/t  还/d  会/v  来/vf  喜欢/vi
+会/v  经常/d  来/vf  的/ude1
+推荐/v  大家/rr  都/d  来/vf  尝试/v  一下/m  味道/n  不错/a
+服务员/nnt  很/d  热情/an
+哈哈哈/o  啊/y  哈哈哈/o  环境/n  不错/a
+口味/n  正宗/b
+好吃/a  好吃/a  好好/d  吃/v  每次/r  来/vf  吃/v
+都/d  挺好/nz  的/ude1
+关键/n  是/vshi  干净/a  ……/w  口味/n  正宗/b
+份量/n  十足/z
+推荐/v  豆皮/nf  就/d  是/vshi  薄脆/n
+质量/n  不错/a  离/v  学校/nis  很/d  近/a
+很/d  干净/a  的/ude1  店面/n  ~/nx  味道/n  不错/a  薄脆/n  看起来/v  还/d  不错/a  ～/w  味道/n  挺/d  浓郁/a
+菜单/n  上/f  的/ude1  套餐/n  名字/n  好/a  有趣/a  啊/y  哈哈哈/o  口味/n  不/d  错/v
+在/p  学校/nis  附近/f
+挺/d  方便/a  的/ude1
+第一/m  次/qv  过来/vf
+干净/a  卫生/an
+服务态度/nz  很好/ad
+还/d  赠送/v  了/ule  饮料/nf  我/rr  又/d  来/vf  了/ule
+还是/c  很/d  好吃/a  啊/y
+哈哈哈/o  还/d  会/v  持续/vn  再来/d  滴/v
+就是/v  好久不见/l  老板/nnt  了/ule  呢/y
+开分店/nt  去/vf  了/ule  ？/w  好评/n
+非得/d  凑够/v  15/m  个/q  字/n
+无意/v  发现/v
+值得/v  一/m  试/v
+重要/a  的/ude1  事情/n  说/v  三/m  遍/qv
+来/vf  一/m  碗/n
+来/vf  一/m  碗/n
+来/vf  一/m  碗/n
+很/d  好吃/a
+第二/m  次/qv  来/vf  了/ule
+环境/n  服务/vn  很好/ad  很好/ad  吃/v
+很/d  正宗/b
+推荐/v  豆/n  泡/v  和/cc  薄脆/n  喜欢/vi  的/ude1  味道/n
+比/p  去/vf  过/uguo  的/ude1  其他/rzv  店/n  环境/n  好/a  太多/ad  了/ule
+环境/n  干净/a
+服务态度/nz  赞/vg
+味道/n  应该/v  也/d  不错/a  朋友/n  推荐/v  来/vf  的/ude1
+南瓜/nf  绿豆粥/nf  不错/a
+加料/v  也/d  不少/m
+还行/v
+味道/n  很好/ad
+价格合理/n
+大家/rr  都/d  来/vf  尝尝/v  吧/y
+好/a  次/qv  的/ude1  螺蛳/nf  粉/ag
+已经/d  个/q  女朋友/n  吃/v  了/ule  好多/m  次/qv  啦/y  ～/w  不错/a  不错/a  不错/a
+环境/n  也/d  很好/ad  ~/nx  昨天晚上/nz  发现/v  的/ude1  地儿/n
+果断/a  来/vf  尝试/v  店面/n  干净/a
+螺蛳/nf  粉/ag  好/a  大一/j  碗/n
+味道/n  也/d  不错/a  ~/nx  环境/n  不错/a
+好/a  大一/j  碗/n  螺狮/nr  粉/ag
+赠/v  的/ude1  粥/nf  不错/a
+口味/n  还/d  不错/a
+服务/vn  挺/d  热情/an  的/ude1
+好/a  大一/j  碗/n  呀/y   /w  点/qt  的/ude1  女神/n  套餐/n   /w  配菜/nz  都/d  放进/v  了/ule  粉/ag  里/f   /w  味道/n  不错/a   /w  不/d  建议/n  选择/v  配菜/nz  里带/n  薄脆/n  的/ude1  套餐/n   /w  螺蛳/nf  粉/ag  里/f  已有/v  女神/n  套餐/n  、/w  还/d  不错/a  、/w  服务周到/i  、/w  味道/n  可口/a  很/d  好吃/a  的/ude1  螺蛳/nf  粉/ag
+家/q  附近/f  很/d  难得/a
+不错/a  路过/v  偶然/a  发现/v  的/ude1
+味道/n  还行/v  吧/y
+分量/n  挺大/nt
+花生/n  露/v  挺好/nz  喝/vg
+哈哈/o  味道/n  很/d  正/d  ～/w  服务/vn  也/d  超级/b  好/a  ～/w  大爱/nz  这家/r  粉店/n  ～/w  ～/w  第一/m  次/qv  来/vf
+朋友/n  带/v  过来/vf  的/ude1
+味道/n  非常/d  好/a
+老板/nnt  一家/n  很/d  热情/an
+服务员/nnt  也/d  很/d  客气/a
+下次/t  还/d  会/v  再来/d  哈/b
+点/qt  了/ule  一个/mq  砂锅/n
+一/m  份/q  螺蛳/nf  粉/ag
+味道/n  都/d  非常/d  好/a
+酸/a  笋/n  的/ude1  味道/n  很/d  浓郁/a  ～/w  螺蛳/nf  粉/ag  味道/n  好吃/a
+送/v  的/ude1  粥/nf  也/d  特别/d  好/a  喝/vg
+服务周到/i
+已经/d  第/m  四/m  次/qv  来/vf  了/ule
+带/v  朋友/n  一起/s  来/vf  吃/v  的/ude1
+朋友/n  也/d  觉得/v  非常/d  好/a
+还/d  不错/a
+又/d  来/vf  吃/v  了/ule
+推荐/v  原味/nz  螺蛳/nf  粉/ag  太/d  好/a  啦/y   /w  老板/nnt  特别/d  热情/an   /w  东西/n  很/d  好吃/a   /w  好好/d  口味/n  不/d  错/v
+有点/d  辣/a
+装修/vn  也/d  很/d  有/vyou  风格/n
+服务态度/nz  好/a
+闻/v  着/uzhe  味道/n  挺/d  奇特/a  的/ude1
+但是/c  还是/c  很/d  好吃/a  哒/o  ~/nx  螺狮/nr  粉/ag  非常/d  好吃/a
+经常/d  来/vf
+薄脆/n  加/v  面/nf  里面/f  很爽/a  ~/nx  真的/d  很棒/a  的/ude1  味道/n
+下次/t  还/d  来/vf  吃/v
+加油/vi
+诶/e  哟/e
+不错/a  哦/e
+来/vf  这/rzv  吃/v  螺蛳/nf  粉吧/ntc
+偶然/a  路过/v
+被/pbei  名字/n  吸引/v
+决定/v  来/vf  尝尝/v
+第一/m  次/qv  吃/v  螺蛳/nf  粉/ag
+相当/d  酸/a  爽/ag  美味/n  啊/y
+价钱/n  也/d  很/d  实惠/an
+以后/f  还/d  会/v  常来/d  的/ude1
+味道/n  很好/ad
+我们/rr  都/d  很/d  喜欢/vi  来/vf  吃/v
+非常/d  好吃/a
+很/d  地道/a
+量/n  很大/d
+还/d  会/v  再来/d
+挺好吃/a  的/ude1
+味道/n  不错/a
+味道/n  不错/a
+味道/n  不错/a
+重要/a  的/ude1  是/vshi  说/v  三/m  遍/qv  口味/n  很好/ad
+装修/vn  很/d  有/vyou  调调/n
+值得/v  来/vf
+看起来/v  很小/a  一个/mq  门/n
+进来/vf  觉得/v  很/d  宽敞/a
+很/d  干净/a  好吃/a
+环境/n  好/a
+还有/v  优惠活动/nz
+好评/n  口味/n  不/d  错/v
+挺好吃/a  的/ude1
+老板/nnt  挺/d  客气/a  的/ude1  ～/w  老板/nnt  和/cc  服务/vn  都/d  很好/ad
+味道/n  也/d  好/a
+五/m  颗/q  星/n  推荐/v
+环境/n  好/a  、/w  很/d  干净/a
+值得/v  一/m  试/v
+现在/t  还有/v  优惠/vn
+味道/n  不错/a
+经常/d  来/vf
+这里/rzs  的/ude1  牛肉面/nf  和/cc  花生米/n  都/d  不错/a  环境/n  不错/a   /w  挺/d  干净/a  的/ude1   /w  螺蛳/nf  粉/ag  蛮/d  好吃/a  的/ude1  点/qt  了/ule  螺狮粉大份/nt  的/ude1  还/d  送/v  了/ule  南瓜/nf  粥/nf
+环境/n  也/d  不错/a  ~/nx  家乡/n  的/ude1  味道/n  不错/a  啊/y
+很/d  是/vshi  正宗/b
+欢迎/v  老乡/n  多/a  来/vf  照顾/v
+环境/n  很/d  干净/a  卫生/an
+味道/n  好/a
+还/d  可以/v  外卖/nz
+离家近/v  很/d  方便/a  吃到/v
+好吃/a
+环境/n  不错/a
+交通/n  方便/a
+跟/p  朋友/n  一起/s  过来/vf  的/ude1
+很/d  好吃/a
+味道/n  很香/nz  美/b
+具有/v  地方/n  特色/n
+下次/t  还/d  会/v  来/vf  ~/nx  一/m  进门/vi  就/d  浓浓的/z  酸/a  笋/n  味儿/n
+正宗/b
+服务态度/nz  好/a
+广西南宁/ns  吃/v  过/uguo
+一直/d  也/d  没/d  在/p  北京/ns  找到/v
+今天/t  发现/v  了/ule  就/d  在家/vi  附近/f  很好/ad  找/v
+兴奋/a
+吃/v  了/ule  螺狮/nr  粉/ag
+正宗/b
+和/cc  南宁/ns  吃到/v  的/ude1  一样/uyy  的/ude1
+太/d  开心/a
+加/v  了/ule  酸/a  笋/n
+很棒/a  很棒/a
+以后/f  可以/v  经常/d  来/vf  了/ule
+量/n  大/a  俺/rr  要/v  的/ude1  小粉/n
+额/n
+虽然/c  是家/nt  卖/v  螺蛳/nf  粉的店/ntc
+但/c  比较/d  喜欢/vi  吃/v  砂锅/n  就/d  点/qt  了/ule  砂锅/n
+先/d  说/v  下店/n  吧/y
+装修/vn  的/ude1  很/d  有/vyou  特点/n
+貌似/v  卖/v  螺蛳/nf  粉/ag  的/ude1  都/d  是/vshi  这种/r  装修/vn  风格/n  ？/w  一/m  进/vf  店门/n  浓郁/a  的/ude1  酸/a  笋/n  味道/n  就/d  扑鼻而来/nz  了/ule
+一/m  闻就/nr  知道/v  很/d  正宗/b  啊/y
+下次/t  来/vf  吃/v  下/f  螺蛳/nf  粉吧/ntc
+服务员/nnt  很/d  有/vyou  礼貌/an
+点/qt  完/vi  后/f  上菜/n  速度/n  还是/c  很快/d  的/ude1
+小小/z  一/m  锅/n  不过/c  12/m  块钱/q
+牛肉/nf  竟然/d  有/vyou  好多/m  块/q
+真是/d  惊喜/a  啊/y
+味道/n  还行/v
+没有/v  惊艳/nz  到/v
+可能/v  还是/c  螺蛳/nf  粉/ag  比较/d  好/a  吃吧/nz
+最近/t  店里/n  还/d  在/p  做/v  活动/vn
+分享/v  到/v  朋友圈/nz  集/q  赞/vg  啥/ry  的/ude1  可以/v  免费/vd  吃/v  一/m  份/q  螺蛳/nf  粉/ag
+看来/v  是/vshi  处在/v  打响/v  知名度/n  的/ude1  阶段/n  啊/y
+有/vyou  团购/v  券/ng  可以/v  用/p
+总体/n  感觉/n  还是/c  不错/a  的/ude1
+PS/nx  ：/w  吃完/v  后/f  衣服/n  上/f  沾/v  的/ude1  酸/a  笋/n  的/ude1  味道/n  一/m  天都/ns  没有/v  散发/v  完毕/vi  啊/y
+绝对/d  是/vshi  我/rr  吃/v  过/uguo  的/ude1  最/d  正宗/b  的/ude1  广西/ns  螺蛳/nf  粉/ag  今天/t  来/vf  了/ule  一/m  份/q  高富帅/nr  套餐/n
+爽/ag  爆/v  了/ule
+味道/n  就是/v  正宗/b
+装修/v  挺不错/i
+下次/t  再来/d
+价格/n  很/d  公道/a
+作为/p  资深/b  吃货/nz  非常/d  推荐/v  这里/rzs  的/ude1  菜品/n
+一大/n  碗/n  很/d  满足/v
+给/p  的/ude1  量/n  不小/a
+适合/v  我/rr  第一次用大众/nt  点评/v
+给/p  的/ude1  是/vshi  这家/r  小店/n
+几/d  个人/n  不到/v  100/m  块/q  吃/v  的/ude1  特别/d  满足/v
+环境/n  也/d  好/a
+老板/nnt  服务/vn  也/d  周到/a
+希望/v  越办/nt  越好/d  特别/d  喜欢/vi  这/rzv  的/ude1  环境/n
+菜品/n  自然/n  是/vshi  没话说/nz
+老板/nnt  人/n  也/d  特别/d  好/a
+以后/f  会/v  经常/d  来/vf  这里/rzs
+好吃/a  又/d  便宜/a
+贼/n  好吃/a  啊/y
+一点/m  也/d  不贵/a
+刚/d  上完/ns  网/n  出门/vi  就/d  有/vyou  便宜/a  又/d  好吃/a  的/ude1  小店/n  实在太/n  爽/ag  了/ule  人均/a  不到/v  二十/m  块/q  的/ude1  良心/n  小店/n
+菜品/n  很/d  足/a
+也/d  很/d  过瘾/a
+下次/t  要/v  尝一尝/v  砂锅/n  喽/y
+环境/n  不错/a
+店/n  虽然/c  不大/d  可是/c  温馨/a
+第一/m  次/qv  去/vf  吃/v  螺蛳/nf  粉/ag
+比/p  想象/v  的/ude1  要/v  好吃/a
+还有/v  那个/rz  小/a  菜/n  也/d  不错/a
+可以/v  尝一尝/v  ～/w  份量/n  很/d  足/a
+汉子/n  也/d  吃/v  不/d  完小/nis  份/q
+环境/n  不错/a
+门口/s  那个/rz  尔康好/nr  萌/vg  哦/e
+我/rr  之前/f  没有/v  吃/v  过/uguo  螺蛳/nf  粉/ag
+但是/c  觉得/v  这家/r  螺蛳/nf  粉/ag  挺好吃/a
+汤里/nr  有/vyou  淡淡的/z  草药/n  味/ng
+很香/nz  ~/nx  老板/nnt  再三/d  承诺/vn  没有/v  使用/v  地沟油/nf
+都是很健康的食品/nt
+妈妈/n  就是/v  希望/v  我/rr  来/vf  这种/r  店/n  吃饭/vi  啊/y  哈哈哈/o
+唯一/b  一点/m  就/d  是/vshi  现在/t  还/d  没有/v  外卖/nz
+谁/ry  让/v  我/rr  懒/a  呢/y  啊哈哈/e
+问/v  了/ule  老板/nnt  说/v  可以/v  在/p  微信/nz  微博/n  上/f  联系/v  送/v  外卖/nz  （/w  请/v  叫/vi  我/rr  雷锋/nr  ）/w
+以后/f  会/v  慢慢/d  加/v
+希望/v  生意/n  越来越/d  好/a  咯/y  ~/nx  第一/mq  次/qv  吃/v
+味道/n  很棒/a
+小馆子/nrj  环境/n  跟/p  80/m  后/f
+音乐/n  很/d  怀旧/vn
+不错/a  不错/a  ～/w  来/vf  北京/ns  吃/v  过/uguo  无数/m  家/q  的/ude1  螺蛳/nf  粉/ag  了/ule
+从来/d  没有/v  吃到/v  过/uguo  老家/n  正宗/b  的/ude1  味道/n
+但是/c  这/rzv  一家/n
+让/v  作为/p  地道/a  广西/ns  人/n  的/ude1  我/rr  吃/v  的/ude1  好/a  满足/v
+就是/v  位置/n  有点/d  偏/d
+羊蝎子/nf  火锅/nf  旁边/f
+环境/n  挺好/nz  的/ude1
+老板/nnt  有/vyou  品味/v
+是/vshi  个/q  年轻人/n
+大家/rr  多/a  去/vf  捧场/vi
+下图/n  是/vshi  我/rr  的/ude1  杰作/n  环境/n  优雅/a
+干净/a  卫生/an
+有点/d  调调/n
+服务态度/nz  好/a
+螺蛳/nf  粉/ag  做/v  的/ude1  非常/d  地道/a  正宗/b
+超/v  赞/vg
+下次/t  还/d  来/vf
+螺蛳/nf  粉/ag  够/v  正宗/b
+就是/v  这个/rz  味儿/n
+服务/vn  味道/n  也/d  不错/a  哟/e
+环境/n  干净/a  卫生/an
+螺蛳/nf  粉/ag  味道/n  非常/d  正宗/b  老板/nnt  人/n  挺/d  实诚/nz  ～/w  螺蛳/nf  粉/ag  正宗/b  好吃/a  量大/nt
+菜单/n  也/d  很/d  丰富/a  准备/v  下回/t  去/vf  尝尝/v  砂锅/n  ～/w  环境/n  很好/ad
+装修/vn  风格/n  活泼/a  ～/w
